@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74AUC2G240:74AUC2G240",
+  "name": "74AUC2G240",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74AUC2G240.kicad_sym",
+  "description": "Dual Inverter Buffer Tri-State, Low-Voltage CMOS",
+  "datasheet": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+  "keywords": "Dual Inv Buff Tri-State LVC CMOS",
+  "footprint": "",
+  "extends": "74LVC2G240",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74AUC2G240/",
+  "part_path": "parts/74AUC2G240",
+  "symbol_file": "parts/74AUC2G240/74AUC2G240.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:05:59.202Z"
+}
