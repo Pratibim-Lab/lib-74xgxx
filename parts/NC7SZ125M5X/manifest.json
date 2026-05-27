@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/NC7SZ125M5X:NC7SZ125M5X",
+  "name": "NC7SZ125M5X",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/NC7SZ125M5X.kicad_sym",
+  "description": "TinyLogic UHS Buffer, Tri-State Output, SOT-23-5",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/nc7sz125-d.pdf",
+  "keywords": "buffer three-state",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/NC7SZ125M5X/",
+  "part_path": "parts/NC7SZ125M5X",
+  "symbol_file": "parts/NC7SZ125M5X/NC7SZ125M5X.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:06.955Z"
+}

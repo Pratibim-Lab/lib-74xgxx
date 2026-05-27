@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74LVC3G14:74LVC3G14",
+  "name": "74LVC3G14",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74LVC3G14.kicad_sym",
+  "description": "Triple NOT Gate Schmitt, Low-Voltage CMOS",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn74lvc3g14.pdf",
+  "keywords": "Triple NOT Schmitt LVC CMOS",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74LVC3G14/",
+  "part_path": "parts/74LVC3G14",
+  "symbol_file": "parts/74LVC3G14/74LVC3G14.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:00.835Z"
+}

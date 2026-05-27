@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/NC7SVU04P5X:NC7SVU04P5X",
+  "name": "NC7SVU04P5X",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/NC7SVU04P5X.kicad_sym",
+  "description": "High-Speed Logic Inverter, SOT-353",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NC7SVU04-D.pdf",
+  "keywords": "inverter",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/NC7SVU04P5X/",
+  "part_path": "parts/NC7SVU04P5X",
+  "symbol_file": "parts/NC7SVU04P5X/NC7SVU04P5X.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:05.951Z"
+}

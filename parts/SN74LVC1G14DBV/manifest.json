@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/SN74LVC1G14DBV:SN74LVC1G14DBV",
+  "name": "SN74LVC1G14DBV",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/SN74LVC1G14DBV.kicad_sym",
+  "description": "Single Schmitt NOT Gate, Low-Voltage CMOS, SOT-23",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf",
+  "keywords": "Single Gate NOT Schmitt LVC CMOS",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "74LVC1G14",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/SN74LVC1G14DBV/",
+  "part_path": "parts/SN74LVC1G14DBV",
+  "symbol_file": "parts/SN74LVC1G14DBV/SN74LVC1G14DBV.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:16.223Z"
+}

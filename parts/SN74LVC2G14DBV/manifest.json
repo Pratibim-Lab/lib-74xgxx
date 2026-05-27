@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/SN74LVC2G14DBV:SN74LVC2G14DBV",
+  "name": "SN74LVC2G14DBV",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/SN74LVC2G14DBV.kicad_sym",
+  "description": "Dual schmitt inverter, VCC from 1.65 to 5.5 V, SOT-23",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf",
+  "keywords": "dual schmitt inverter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "Inverter_Schmitt_Dual",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/SN74LVC2G14DBV/",
+  "part_path": "parts/SN74LVC2G14DBV",
+  "symbol_file": "parts/SN74LVC2G14DBV/SN74LVC2G14DBV.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:18.363Z"
+}

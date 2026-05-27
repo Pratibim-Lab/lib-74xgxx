@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/SN74LVC1G00DCK:SN74LVC1G00DCK",
+  "name": "SN74LVC1G00DCK",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/SN74LVC1G00DCK.kicad_sym",
+  "description": "Single NAND Gate, Low-Voltage CMOS, SOT-353",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn74lvc1g00.pdf",
+  "keywords": "Single Gate NAND LVC CMOS",
+  "footprint": "Package_TO_SOT_SMD:Texas_R-PDSO-G5_DCK-5",
+  "extends": "74LVC1G00",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/SN74LVC1G00DCK/",
+  "part_path": "parts/SN74LVC1G00DCK",
+  "symbol_file": "parts/SN74LVC1G00DCK/SN74LVC1G00DCK.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:10.609Z"
+}

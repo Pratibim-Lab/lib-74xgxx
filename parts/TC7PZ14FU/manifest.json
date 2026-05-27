@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/TC7PZ14FU:TC7PZ14FU",
+  "name": "TC7PZ14FU",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/TC7PZ14FU.kicad_sym",
+  "description": "Dual schmitt inverter, VCC from 1.65 to 5.5 V, SOT-363",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=14431&prodName=TC7PZ14FU",
+  "keywords": "dual schmitt inverter",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Inverter_Schmitt_Dual",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/TC7PZ14FU/",
+  "part_path": "parts/TC7PZ14FU",
+  "symbol_file": "parts/TC7PZ14FU/TC7PZ14FU.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:19.892Z"
+}
