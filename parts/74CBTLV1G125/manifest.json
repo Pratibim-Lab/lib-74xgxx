@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74CBTLV1G125:74CBTLV1G125",
+  "name": "74CBTLV1G125",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74CBTLV1G125.kicad_sym",
+  "description": "Single FET Bus Switch",
+  "datasheet": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+  "keywords": "Single FET Bus Switch",
+  "footprint": "",
+  "extends": "74CBT1G125",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74CBTLV1G125/",
+  "part_path": "parts/74CBTLV1G125",
+  "symbol_file": "parts/74CBTLV1G125/74CBTLV1G125.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:07:33.345Z"
+}
