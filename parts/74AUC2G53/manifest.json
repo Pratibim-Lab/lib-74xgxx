@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74AUC2G53:74AUC2G53",
+  "name": "74AUC2G53",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74AUC2G53.kicad_sym",
+  "description": "1 to 2 Analog Switch Mux/Demux, Low-Voltage CMOS",
+  "datasheet": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+  "keywords": "Analog Switch 1 to 2 CMOS",
+  "footprint": "",
+  "extends": "74LVC2G53",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74AUC2G53/",
+  "part_path": "parts/74AUC2G53",
+  "symbol_file": "parts/74AUC2G53/74AUC2G53.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:06:09.505Z"
+}
