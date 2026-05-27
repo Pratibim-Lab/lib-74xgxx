@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74LVC1G17:74LVC1G17",
+  "name": "74LVC1G17",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74LVC1G17.kicad_sym",
+  "description": "Single Schmitt Buffer Gate, Low-Voltage CMOS",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf",
+  "keywords": "Single Gate Buff Schmitt LVC CMOS",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74LVC1G17/",
+  "part_path": "parts/74LVC1G17",
+  "symbol_file": "parts/74LVC1G17/74LVC1G17.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:08:11.011Z"
+}
