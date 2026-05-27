@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74AUC1G18:74AUC1G18",
+  "name": "74AUC1G18",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74AUC1G18.kicad_sym",
+  "description": "Single Demultiplexer, Low-Voltage CMOS",
+  "datasheet": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+  "keywords": "Single Demux LVC CMOS",
+  "footprint": "",
+  "extends": "74LVC1G18",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74AUC1G18/",
+  "part_path": "parts/74AUC1G18",
+  "symbol_file": "parts/74AUC1G18/74AUC1G18.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:05:13.620Z"
+}
