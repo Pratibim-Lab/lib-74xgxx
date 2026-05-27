@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74CBTD1G384:74CBTD1G384",
+  "name": "74CBTD1G384",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74CBTD1G384.kicad_sym",
+  "description": "Single FET Bus Switch",
+  "datasheet": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+  "keywords": "Single FET Bus Switch",
+  "footprint": "",
+  "extends": "74CBT1G384",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74CBTD1G384/",
+  "part_path": "parts/74CBTD1G384",
+  "symbol_file": "parts/74CBTD1G384/74CBTD1G384.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:07:30.669Z"
+}
