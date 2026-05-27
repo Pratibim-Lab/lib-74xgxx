@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74AHC2G00:74AHC2G00",
+  "name": "74AHC2G00",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74AHC2G00.kicad_sym",
+  "description": "Dual NAND Gate, High-speed Si-gate CMOS",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT2G00.pdf",
+  "keywords": "Dual Gate NAND LVC CMOS",
+  "footprint": "",
+  "extends": "74LVC2G00",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74AHC2G00/",
+  "part_path": "parts/74AHC2G00",
+  "symbol_file": "parts/74AHC2G00/74AHC2G00.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:04:19.537Z"
+}
