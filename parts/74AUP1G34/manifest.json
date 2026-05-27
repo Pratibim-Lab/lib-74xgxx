@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74AUP1G34:74AUP1G34",
+  "name": "74AUP1G34",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74AUP1G34.kicad_sym",
+  "description": "Single Buffer Gate, Low-Voltage CMOS",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn74aup1g34.pdf",
+  "keywords": "Single Gate Buff LVC CMOS",
+  "footprint": "",
+  "extends": "74LVC1G34",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74AUP1G34/",
+  "part_path": "parts/74AUP1G34",
+  "symbol_file": "parts/74AUP1G34/74AUP1G34.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:06:54.649Z"
+}
