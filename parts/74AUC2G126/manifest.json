@@ -1,0 +1,17 @@
+{
+  "id": "74xGxx/74AUC2G126:74AUC2G126",
+  "name": "74AUC2G126",
+  "library": "74xGxx",
+  "file": "74xGxx.kicad_symdir/74AUC2G126.kicad_sym",
+  "description": "Dual Buffer Tri-State, Low-Voltage CMOS",
+  "datasheet": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+  "keywords": "Dual Buff Tri-State LVC CMOS",
+  "footprint": "",
+  "extends": "74LVC2G126",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xgxx@master/parts/74AUC2G126/",
+  "part_path": "parts/74AUC2G126",
+  "symbol_file": "parts/74AUC2G126/74AUC2G126.kicad_sym",
+  "source_library": "74xGxx.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:05:56.756Z"
+}
